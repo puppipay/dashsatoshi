@@ -1,0 +1,22 @@
+{
+  "name": "dashsatoshi",
+  "version": "1.0.1",
+  "description": "Meant for ramdashaevo changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@dashevo/dashcore-lib": "^0.17.2",
+    "bn.js": "=2.0.4",
+    "bs58": "=2.0.0",
+    "buffer-compare": "=1.0.0",
+    "elliptic": "=3.0.3",
+    "inherits": "=2.0.1",
+    "lodash": "=4.17.1",
+    "ramdashlibpe3": "^1.0.1",
+    "sha512": "=0.0.1"
+  }
+}
